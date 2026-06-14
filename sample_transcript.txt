@@ -1,0 +1,11 @@
+Interviewer: What programming languages do you know?
+
+Candidate: I know Python, Java, and SQL.
+
+Interviewer: What are your strengths?
+
+Candidate: My strengths are problem solving and teamwork.
+
+Interviewer: What would you like to improve?
+
+Candidate: I would like to improve my communication skills.
