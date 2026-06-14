@@ -94,4 +94,4 @@ The application successfully extracts relevant information from interview transc
 
 Srihitha Alli
 
-AI & ML Internship Project
+
